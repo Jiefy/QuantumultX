@@ -18,10 +18,6 @@
 * [分流策略科普-上集](https://youtu.be/3htp08CVkCE)
 * [分流策略科普-下集](https://youtu.be/fd6gRfxwrF4)
 
-### 🚀自用机场及Netflix流媒体合租平台推荐：（2022.11.10更新）
-* [🚘比特云](https://bit.ly/3hqNSW4)
-* [🚄海豚湾](http://bit.ly/3Eh1aBy)
-* [🚖Netflix合租](https://nf.run/xCnTPT)
 
 ### Quantumult X懒人配置：（2022.10.15更新）
 * Quantumult X最新商店版支持gallery订阅及Url测速：
@@ -74,8 +70,6 @@
 * [Task.sgmodule](https://raw.githubusercontent.com/Tartarus2014/Surge-Script/master/Task.sgmodule) 定时任务远程配置
 
 
-### 请喝咖啡？谢谢赞赏~
-![感谢赞赏的咖啡哟~](https://raw.githubusercontent.com/w37fhy/QuantumultX/master/zs.png)
 
 
 ## 免责声明：
